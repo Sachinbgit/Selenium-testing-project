@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 	@RunWith(Cucumber.class)
 	@CucumberOptions(features = "Features",
 	
-	glue = "com.Cucumber", monochorme = true)
+	glue = "com.Cucumber")
 	
 
 public class Runner {

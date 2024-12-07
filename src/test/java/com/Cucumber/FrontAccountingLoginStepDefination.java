@@ -11,7 +11,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 
-public class FrontAccountingLogin {
+public class FrontAccountingLoginStepDefination {
 	WebDriver w;
 	@Given("Open browser And open frontaccounting")
 	public void open_browser_and_open_frontaccounting() {

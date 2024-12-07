@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-07T16:24:37 IST" name="Suite" finished-at="2024-12-07T16:24:57 IST" duration-ms="19846">
+    <groups>
+    </groups>
+    <test started-at="2024-12-07T16:24:37 IST" name="Test" finished-at="2024-12-07T16:24:57 IST" duration-ms="19846">
+      <class name="com.TestNg.DemoParellel">
+        <test-method signature="Flipkart()[pri:0, instance:com.TestNg.DemoParellel@1e1a0406]" started-at="2024-12-07T16:24:37 IST" name="Flipkart" finished-at="2024-12-07T16:24:57 IST" duration-ms="19748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flipkart -->
+        <test-method signature="SauceDemo()[pri:0, instance:com.TestNg.DemoParellel@1e1a0406]" started-at="2024-12-07T16:24:37 IST" name="SauceDemo" finished-at="2024-12-07T16:24:54 IST" duration-ms="16846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SauceDemo -->
+      </class> <!-- com.TestNg.DemoParellel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

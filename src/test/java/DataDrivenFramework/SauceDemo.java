@@ -43,7 +43,7 @@ public class SauceDemo {
 				try {
 					Thread.sleep(2000);
 					w.findElement(By.id("react-burger-menu-btn")).click();
-					Thread.sleep(2000);4
+					Thread.sleep(2000);
 					w.findElement(By.linkText("Logout")).click();
 				} catch (Exception e) {
 					TakesScreenshot tss= (TakesScreenshot) w;
