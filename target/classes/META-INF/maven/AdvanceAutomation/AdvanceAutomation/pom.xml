@@ -14,6 +14,8 @@
           <configuration>
             <!-- put your configurations here -->
           </configuration>
+          
+          
         </plugin>
         
          <plugin>
@@ -22,7 +24,7 @@
         <version>3.5.2</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>testng.xml</suiteXmlFile>
+            <suiteXmlFile>demo.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
